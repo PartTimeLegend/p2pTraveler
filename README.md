@@ -32,3 +32,5 @@ DISCLAIMER
 ----------
 
 Don't break the law. If you do it's not my fault. I'm no more responsible for your actions that a shop that sells matches is responsible for arson.
+
+[![Build Status](https://travis-ci.org/PartTimeLegend/p2pTraveler.png?branch=master)](https://travis-ci.org/PartTimeLegend/p2pTraveler)
