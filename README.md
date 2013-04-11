@@ -34,3 +34,6 @@ DISCLAIMER
 Don't break the law. If you do it's not my fault. I'm no more responsible for your actions that a shop that sells matches is responsible for arson.
 
 [![Build Status](https://travis-ci.org/PartTimeLegend/p2pTraveler.png?branch=master)](https://travis-ci.org/PartTimeLegend/p2pTraveler)
+
+Add the following Markdown markup to the file to show a button on the repository Github page. 
+[![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=parttimelegend&url=https://github.com/PartTimeLegend/p2pTraveler&title=p2pTraveler&language=&tags=github&category=software)
